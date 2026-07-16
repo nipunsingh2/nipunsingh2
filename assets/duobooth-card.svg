@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="240">
+<rect width="700" height="240" rx="18" fill="#161B22" stroke="#30363D"/>
+<text x="36" y="60" fill="#58A6FF" font-size="34" font-family="Segoe UI" font-weight="700">DuoBooth</text>
+<text x="36" y="100" fill="#E6EDF3" font-size="18" font-family="Segoe UI">Collaborative virtual photo booth</text>
+<line x1="36" y1="140" x2="664" y2="140" stroke="#30363D"/>
+<text x="36" y="180" fill="#8B949E" font-size="16">Designed for GitHub README</text>
+</svg>
