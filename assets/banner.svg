@@ -1,0 +1,110 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360">
+<stop stop-color="#0D1117"/>
+<stop offset="1" stop-color="#161B22"/>
+</linearGradient>
+
+<linearGradient id="blue" x1="0" y1="0" x2="1280" y2="0">
+<stop stop-color="#1F6FEB"/>
+<stop offset="1" stop-color="#58A6FF"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="18"/>
+</filter>
+
+</defs>
+
+<rect width="1280" height="360" fill="url(#bg)"/>
+
+<!-- Grid -->
+
+<g opacity=".07">
+
+<path d="M0 40H1280" stroke="white"/>
+<path d="M0 80H1280" stroke="white"/>
+<path d="M0 120H1280" stroke="white"/>
+<path d="M0 160H1280" stroke="white"/>
+<path d="M0 200H1280" stroke="white"/>
+<path d="M0 240H1280" stroke="white"/>
+<path d="M0 280H1280" stroke="white"/>
+<path d="M0 320H1280" stroke="white"/>
+
+</g>
+
+<g opacity=".07">
+
+<path d="M80 0V360" stroke="white"/>
+<path d="M160 0V360" stroke="white"/>
+<path d="M240 0V360" stroke="white"/>
+<path d="M320 0V360" stroke="white"/>
+<path d="M400 0V360" stroke="white"/>
+<path d="M480 0V360" stroke="white"/>
+<path d="M560 0V360" stroke="white"/>
+<path d="M640 0V360" stroke="white"/>
+<path d="M720 0V360" stroke="white"/>
+<path d="M800 0V360" stroke="white"/>
+<path d="M880 0V360" stroke="white"/>
+<path d="M960 0V360" stroke="white"/>
+<path d="M1040 0V360" stroke="white"/>
+<path d="M1120 0V360" stroke="white"/>
+<path d="M1200 0V360" stroke="white"/>
+
+</g>
+
+<!-- Glow -->
+
+<circle cx="1080" cy="80" r="140" fill="#1F6FEB" opacity=".28" filter="url(#glow)"/>
+
+<circle cx="190" cy="280" r="100" fill="#58A6FF" opacity=".15" filter="url(#glow)"/>
+
+<!-- Accent Lines -->
+
+<line x1="120" y1="85" x2="1150" y2="85" stroke="url(#blue)" stroke-width="2"/>
+
+<line x1="120" y1="285" x2="1150" y2="285" stroke="url(#blue)" stroke-width="2"/>
+
+<!-- Name -->
+
+<text
+x="120"
+y="165"
+fill="white"
+font-size="54"
+font-family="Segoe UI"
+font-weight="700">
+
+NIPUN SINGH
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="120"
+y="210"
+fill="#58A6FF"
+font-size="25"
+font-family="Segoe UI">
+
+AI SOFTWARE ENGINEER
+
+</text>
+
+<!-- Skills -->
+
+<text
+x="120"
+y="248"
+fill="#C9D1D9"
+font-size="18"
+font-family="Segoe UI">
+
+SPRING BOOT • NEXT.JS • MACHINE LEARNING • CLOUD
+
+</text>
+
+</svg>
