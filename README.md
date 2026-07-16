@@ -33,7 +33,7 @@ Computer Science undergraduate focused on building production-grade backend syst
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,js,ts,nextjs,react,nodejs,postgres,mysql,redis,docker,git,github,maven,aws,vscode,linux&perline=10">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,c,js,ts,nextjs,postgres,mysql,redis,git,github,maven,aws,vscode&perline=8">
 </p>
 
 ---
